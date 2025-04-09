@@ -1,0 +1,238 @@
+[
+  {
+    "workheading": "Webflow",
+    "projects": [
+      {
+        "projectname": "Patient10x",
+        "projectdescription": "A healthcare marketing platform that helps doctors and surgeons grow their clinics through digital marketing and patient acquisition strategies.",
+        "projecturl": "https://www.patient10x.com/",
+        "projectimage": "/images/websites/patient.webp"
+      },
+      {
+        "projectname": "Dextall",
+        "projectdescription": "A construction technology company specializing in prefabricated building facades to improve energy efficiency and streamline the construction process.",
+        "projecturl": "https://www.dextall.com/",
+        "projectimage": "/images/websites/dextail.webp"
+      },  
+      {
+        "projectname": "WildJar",
+        "projectdescription": "A call tracking and analytics platform that helps businesses drive revenue by optimizing their inbound phone lead conversions.",
+        "projecturl": "https://www.wildjar.com/",
+        "projectimage": "/images/websites/wildjar.webp"
+      },
+      {
+        "projectname": "BASS-Medical-Group",
+        "projectdescription": "A leading healthcare specialist provider in California, offering state-of-the-art medical care through a network of 300+ providers across multiple locations.",
+        "projecturl": "https://bass-medical-group.webflow.io/",
+        "projectimage": "/images/websites/bass.webp"
+      },
+      {
+        "projectname": "HostGenius",
+        "projectdescription": "A property management company based in Vancouver that helps Airbnb hosts maximize their rental income and become Superhosts.",
+        "projecturl": "https://hostgenius-063f3c.webflow.io/",
+        "projectimage": "/images/websites/hostgenius.webp"
+      },
+      {
+        "projectname": "3-Point-Elite",
+        "projectdescription": "A gynecology and wellness clinic focused on providing personalized care with board-certified specialists in Maryland.",
+        "projecturl": "https://www.3pointelite.com/",
+        "projectimage": "/images/websites/3pointelite.webp"
+      },
+      {
+        "projectname": "Crop-Photo",
+        "projectdescription": "An AI-powered bulk image editing tool that allows users to crop, resize, and retouch images quickly and efficiently.",
+        "projecturl": "https://www.crop.photo/",
+        "projectimage": "/images/websites/cropphoto.webp"
+      }
+    ]
+  },
+  {
+    "workheading": "Core PHP",
+    "projects": [
+      {
+        "projectname": "Comwave",
+        "projectdescription": "A leading telecom service provider offering high-speed internet, VoIP phone services, and business communication solutions.",
+        "projecturl": "https://www.comwave.net/residential/",
+        "projectimage": "/images/websites/rogers.webp"
+      },
+      {
+        "projectname": "Hugedomains",
+        "projectdescription": "A domain marketplace where users can buy and sell premium domain names for businesses and personal use.",
+        "projecturl": "https://www.hugedomains.com/",
+        "projectimage": "/images/websites/hugedomains.webp"
+      },
+      {
+        "projectname": "Heroku",
+        "projectdescription": "Heroku is a cloud platform that enables developers to deploy, manage, and scale applications easily with support for multiple programming languages.",
+        "projecturl": "https://www.heroku.com/home",
+        "projectimage": "/images/websites/heroku.webp"
+      }
+    ]
+  },
+  {
+    "workheading": "Shopify",
+    "projects": [
+      {
+        "projectname": "Dollar-Shave-Club",
+        "projectdescription": "A subscription-based grooming brand offering high-quality razors, shaving essentials, and personal care products for men.",
+        "projecturl": "https://us.dollarshaveclub.com/",
+        "projectimage": "/images/websites/events.webp"
+      },
+      {
+        "projectname": "Intex",
+        "projectdescription": "A leading electronics brand offering a wide range of consumer electronics, including LED TVs, smartwatches, and home appliances.",
+        "projecturl": "https://www.intex.in/",
+        "projectimage": "/images/websites/intex.webp"
+      },
+      {
+        "projectname": "Atlas-Bars",
+        "projectdescription": "A nutrition-focused brand offering protein bars with clean ingredients, high protein, and low sugar to fuel active lifestyles.",
+        "projecturl": "https://atlasbars.com/",
+        "projectimage": "/images/websites/atlas.webp"
+      },
+      {
+        "projectname": "Ame-&-Lulu",
+        "projectdescription": "A fashion brand offering stylish and functional accessories for active lifestyles, including tennis and golf gear, travel bags, and more.",
+        "projecturl": "https://www.ameandlulu.com/",
+        "projectimage": "/images/websites/amelulu.webp"
+      },
+      {
+        "projectname": "Modholic",
+        "projectdescription": "An online furniture store specializing in Mid-Century Modern furniture with stylish reproductions at affordable prices.",
+        "projecturl": "https://www.modholic.com/",
+        "projectimage": "/images/websites/modholic.webp"
+      }
+    ]
+  },
+  {
+    "workheading": "Wordpress",
+    "projects": [
+      {
+        "projectname": "LivWell Vietnam",
+        "projectdescription": "A wellness and fitness platform in Vietnam that rewards users for staying active through challenges and health-tracking incentives.",
+        "projecturl": "https://www.livwell.vn/",
+        "projectimage": "/images/websites/livwell.webp"
+      },          
+      {
+        "projectname": "Trekkers Paradise Nepal",
+        "projectdescription": "A leading trekking and adventure tour company in Nepal, offering guided treks, expeditions, and cultural tours across the Himalayas.",
+        "projecturl": "https://trekkersparadisenepal.com/",
+        "projectimage": "/images/websites/trekkers.webp"
+      },      
+      {
+        "projectname": "Hiring-Hub",
+        "projectdescription": "An online recruitment platform connecting employers with independent recruiters to simplify the hiring process.",
+        "projecturl": "https://www.hiring-hub.com/",
+        "projectimage": "/images/websites/hiring-hub.webp"
+      },
+      {
+        "projectname": "House-of-Virtruve",
+        "projectdescription": "A luxury interior design and home decor brand offering bespoke furniture and architectural solutions.",
+        "projecturl": "https://www.houseofvirtruve.com/",
+        "projectimage": "/images/websites/house.webp"
+      },
+      {
+        "projectname": "The-Furniture-Labels",
+        "projectdescription": "A premium furniture retailer in Dubai offering high-quality office and home furniture solutions.",
+        "projecturl": "https://thefurniturelabels.com/",
+        "projectimage": "/images/websites/furniture.webp"
+      },
+      {
+        "projectname": "Lin-Andrews",
+        "projectdescription": "A real estate firm in South Australia offering services in residential and commercial property sales and management.",
+        "projecturl": "https://www.linandrews.com.au/",
+        "projectimage": "/images/websites/linandrews.webp"
+      },
+      {
+        "projectname": "Bruno-Nalu",
+        "projectdescription": "A high-end law firm offering legal representation in criminal defense, DUI cases, and civil litigation.",
+        "projecturl": "https://www.brunonalu.com/",
+        "projectimage": "/images/websites/brunonalu.webp"
+      },
+      {
+        "projectname": "ManageWP",
+        "projectdescription": "ManageWP provides an all-in-one WordPress management platform for site updates, security, and performance optimization.",
+        "projecturl": "https://managewp.com/",
+        "projectimage": "/images/websites/managewp.webp"
+      }
+    ]
+  },
+  {
+    "workheading": "Figma Designs",
+    "projects": [
+      {
+        "projectname": "Autofintech Design",
+        "projecturl": "https://www.figma.com/proto/xTuqd0IDYuynhxU4HUebR5/Auto-Finance?type=design&node-id=27-2702&t=SbB6hMXb6usfPlsq-1&scaling=scale-down-width&page-id=0%3A1",
+        "projectimage": "/images/websites/autofintech.webp"
+      },
+      {
+        "projectname": "Aerokone Design",
+        "projecturl": "https://www.figma.com/proto/c1uTQ6uC16cO7nJoB4MSLl/Aerokone?type=design&node-id=5-49&t=GPcxe43lXyvwHNy9-1&scaling=scale-down-width&page-id=0%3A1",
+        "projectimage": "/images/websites/aerokone.webp"
+      },
+      {
+        "projectname": "Echolight Design",
+        "projecturl": "https://www.figma.com/proto/Q91ybII038ENp9RTv9JLE0/Untitled?page-id=0%3A1&type=design&node-id=3-2&viewport=716%2C576%2C0.14&t=XMT2yfb5wGu7BLq4-1&scaling=scale-down-width&content-scaling=fixed",
+        "projectimage": "/images/websites/echolight.webp"
+      },
+      {
+        "projectname": "Furniture Design",
+        "projecturl": "https://www.figma.com/proto/kIWX3Fi7TKST2rUNT2ynH7/L-L-Furniture?type=design&node-id=108-317&t=4wULGw7H7UrA0mIy-1&scaling=scale-down-width&page-id=0%3A1",
+        "projectimage": "/images/websites/l&lfurniture.webp"
+      },
+      {
+        "projectname": "Realestate Design",
+        "projecturl": "https://www.figma.com/proto/01MmhjvcSiLkm6AOgJDupx/Landing-Page?type=design&node-id=1-12&t=Y3TGvHPtykzGbBbW-1&scaling=scale-down-width&page-id=0%3A1",
+        "projectimage": "/images/websites/realestateui.webp"
+      },
+      {
+        "projectname": "Financial Design",
+        "projecturl": "https://www.figma.com/proto/cRRkf6rYpDt57rtvm6HSe3/Financial--Copy-?type=design&node-id=311-3923&t=HCvXWQ2Olku6bLpZ-1&scaling=scale-down-width&page-id=0%3A1",
+        "projectimage": "/images/websites/financial-mockup.webp"
+      },
+      {
+        "projectname": "Skinology Design",
+        "projecturl": "https://www.figma.com/proto/zgmZQaKsqYYp1CLioYVPcb/skinologyfacebar?node-id=111-477&scaling=scale-down-width&t=HgA1ZAqj0pFgkehQ-1",
+        "projectimage": "/images/websites/skinology.webp"
+      },
+      {
+        "projectname": "Hughes Design",
+        "projecturl": "https://www.figma.com/proto/4Vd4dZyVJE4RjitUcKVJog/Hugh?type=design&node-id=86-8&t=swfpgE5oIH7gsx9s-1&scaling=scale-down-width&page-id=0%3A1",
+        "projectimage": "/images/websites/hughes.webp"
+      },
+      {
+        "projectname": "Poppyquiz Design",
+        "projecturl": "https://www.figma.com/proto/6RkN1MKcaZWvIWaykvpqmt/Poppyquiz?type=design&node-id=162-496&t=GdEj99g6mi7yDBtH-1&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=107%3A558",
+        "projectimage": "/images/websites/Poppyquiz.webp"
+      }
+    ]
+  },
+  {
+    "workheading": "ReactJS",
+    "projects": [
+      {
+        "projectname": "Estatemate",
+        "projectdescription": "A property management platform designed to streamline communication and operations for homeowners and communities in South Africa.",
+        "projecturl": "https://www.estatemate.co.za/",
+        "projectimage": "/images/websites/estatemate.webp"
+      },
+      {
+        "projectname": "Unibuddy",
+        "projectdescription": "A student engagement platform connecting prospective students with university ambassadors to provide real insights and guidance on campus life.",
+        "projecturl": "https://unibuddy.co",
+        "projectimage": "/images/websites/unibuddy.webp"
+      }
+    ]
+  },
+  {
+    "workheading": "NextJs",
+    "projects": [
+      {
+        "projectname": "Bankrate",
+        "projectdescription": "A leading financial advice platform offering expert insights on mortgages, credit cards, loans, and personal finance management.",
+        "projecturl": "https://www.bankrate.com/",
+        "projectimage": "/images/websites/bankrate.webp"
+      }
+    ]
+  }
+]

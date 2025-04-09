@@ -1,0 +1,101 @@
+@import "tailwindcss";
+:root {
+  --bgcolor: #AE9FE4;
+  --coloroff-white: #f4f9e4;
+  --color-purple: #8463ff;
+  --p-cursor-default: url("../public/images/arrow.svg") 0 0, auto;
+  --p-cursor-pointer: url("../public/images/pointer.svg") 6 6, pointer;
+  --p-cursor-text: url("../public/images/text.svg") 6 6, text;
+  --p-cursor-grab: url("../public/images/grab.svg") 6 6, grab;
+  --p-cursor-grabbing: url("../public/images/grabbing.svg") 6 6, grabbing;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+
+@font-face {
+  font-family: "Boldonse";
+  src: url("/fonts/Boldonse-Regular.ttf");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Gilroy";
+  src: url("/fonts/Gilroy-Regular.ttf");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Gilroy";
+  src: url("/fonts/Gilroy-Medium.ttf");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+*::selection {
+  @apply bg-[#C6BAEF] text-white;
+}
+
+body {
+  font-family: Gilroy;
+  background-color: var(--coloroff-white);
+}
+
+@layer utilities {
+  .cursor-grab {
+    cursor: var(--p-cursor-grab);
+  }
+
+  .cursor-grab:active {
+    cursor: var(--p-cursor-grabbing);
+  }
+}
+
+@media (hover: hover) and (pointer: fine) {
+  body {
+    cursor: var(--p-cursor-default);
+  }
+
+  p,
+  h1,
+  h2,
+  h3,
+  h4,
+  span,
+  input,
+  textarea {
+    cursor: var(--p-cursor-text) !important;
+  }
+
+  a,
+  .cursor-pointer,
+  button,
+  select {
+    cursor: var(--p-cursor-pointer);
+  }
+}
+
+.project-menu::-webkit-scrollbar {
+  display: none;
+}
+
+.project-menu {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.stroke {
+  -webkit-text-stroke: 0.0001px var(--color-purple);
+}
+
+
+@media screen and (max-width: 480px) {
+  .Toastify__toast {
+    @apply w-[95%];
+  }
+}
