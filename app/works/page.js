@@ -93,13 +93,6 @@ const ProjectMenu = () => {
       <PageHeading text="From Concept to Creation" />
 
       <div className="fixed md:sticky z-30 bottom-0 md:top-0 w-full md:mt-20 h-13 flex bg-[var(--coloroff-white)]">
-        <button
-          onClick={scrollLeft}
-          className="md:hidden w-10 cursor-pointer h-full shrink-0 bg-[var(--bgcolor)] px-2"
-        >
-          <ChevronLeft className="text-white"/>
-        </button>
-
         <div
           ref={menuRef}
           className="project-menu overflow-x-scroll whitespace-nowrap z-20 w-full flex items-center md:justify-center px-5 gap-5 md:gap-8 scrollbar-hide"
@@ -119,14 +112,7 @@ const ProjectMenu = () => {
             </button>
           ))}
         </div>
-
-        <button
-          onClick={scrollRight}
-          className="md:hidden w-10 cursor-pointer h-full shrink-0 bg-[var(--bgcolor)] p-2"
-        >
-          <ChevronRight className="text-white" />
-        </button>
-      </div>
+     </div>
 
       <section className="w-full mt-20 md:mt-0">
         {technologies.map((tech, index) => (
